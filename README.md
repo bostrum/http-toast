@@ -1,5 +1,6 @@
 # go-htoast
-HTTP → Windows Toast notification bridge, written in Go.
+HTTP → Windows Toast notification bridge, written in Go.  
+Special use case where the endpoint needed to be server and receive the requests.
 
 # Example
 Either by web browser or webrequest of your choosing. (Invoke-WebRequest in PowerShell, Curl or Wget for example)  
