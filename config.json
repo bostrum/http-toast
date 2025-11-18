@@ -1,7 +1,7 @@
 {
     "port" : "8080",
 
-    "appid" : "htoast",
+    "appid" : "http-toast",
     "title" : "{msg}",
     "sub" : "",
     "btn" : "More info",
