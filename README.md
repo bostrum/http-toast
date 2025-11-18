@@ -1,4 +1,4 @@
-# go-httpoast
+# http-toast
 HTTP → Windows Toast notification bridge, written in Go.  
 Special use case where the endpoint needed to be server and receive the requests.
 
