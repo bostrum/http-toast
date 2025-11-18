@@ -1,8 +1,8 @@
-# go-htoast
+# go-httpoast
 HTTP → Windows Toast notification bridge, written in Go.  
 Special use case where the endpoint needed to be server and receive the requests.
 
-# Example
+## Example
 Either by web browser or webrequest of your choosing. (Invoke-WebRequest in PowerShell, Curl or Wget for example)  
 http://localhost:8080/?msg=Warning&icon=gopher.ico&sub=Click%20on%20the%20button%20below%20to%20read%20more%20about%20this%20alarm  
 
