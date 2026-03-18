@@ -1,4 +1,9 @@
 # http-toast
+
+> [!WARNING]
+> Just a proof-of-concept, redo toast notification in WinRT instead of go-toast.  
+> Since it's running in PowerShell with ExecutionPolicy Bypass.
+
 HTTP → Windows Toast notification bridge, written in Go.  
 Special use case where the endpoint needed to be server and receive the requests.
 
